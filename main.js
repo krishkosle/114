@@ -2,7 +2,7 @@ function preload() {}
 
 function setup() {
     canvs = createCanvas(300, 300);
-    canv.center();
+    canvs.center();
 
 }
 
